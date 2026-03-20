@@ -69,7 +69,7 @@ Important fingertip landmarks:
 - Detect gestures such as pinch or swipe
 - Track multiple hands
 
-# ✨ Updated Version: Gesture Controlled Air OS
+# Updated Version: Gesture Controlled Air OS
 
 This project has been upgraded from basic index finger tracking to a full gesture-based control system.
 
@@ -81,7 +81,7 @@ New features include:
 
 ---
 
-## 📌 Previous Version
+## Previous Version
 The original implementation tracked only the index finger and displayed its position.
 
 This version builds on top of that foundation
