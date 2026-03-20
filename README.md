@@ -69,6 +69,23 @@ Important fingertip landmarks:
 - Detect gestures such as pinch or swipe
 - Track multiple hands
 
+# ✨ Updated Version: Gesture Controlled Air OS
+
+This project has been upgraded from basic index finger tracking to a full gesture-based control system.
+
+New features include:
+- Mouse control using index finger
+- Click using pinch gesture
+- Smooth cursor movement
+- Real-time gesture recognition
+
+---
+
+## 📌 Previous Version
+The original implementation tracked only the index finger and displayed its position.
+
+This version builds on top of that foundation
+
 ## Author
 
 This project was created as a learninggit status exercise for understanding computer vision and hand tracking using MediaPipe and OpenCV.
